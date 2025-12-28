@@ -7,3 +7,5 @@ One option is to simply build the emulator from source code.
 The instructions are in a rather annoying format, they can't be easily copy-pasted.
 The script in this repo is simply all the instructions in a single shell file.
 That should make getting Vice to run an easy task!
+
+Another option is [this project](https://github.com/lharsfalvi/vice-roms-deb) that builds a debian package for the ROM dumps;
